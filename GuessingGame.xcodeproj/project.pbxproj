@@ -16,6 +16,11 @@
 			path = GuessingGame;
 			sourceTree = "<group>";
 		};
+		AEA653F12D3997B200E77ABF /* Views */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Views;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +37,7 @@
 		AEA653D52D39973B00E77ABF = {
 			isa = PBXGroup;
 			children = (
+				AEA653F12D3997B200E77ABF /* Views */,
 				AEA653E02D39973B00E77ABF /* GuessingGame */,
 				AEA653DF2D39973B00E77ABF /* Products */,
 			);
@@ -62,6 +68,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				AEA653E02D39973B00E77ABF /* GuessingGame */,
+				AEA653F12D3997B200E77ABF /* Views */,
 			);
 			name = GuessingGame;
 			packageProductDependencies = (
